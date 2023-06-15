@@ -9,7 +9,7 @@ const cost = document.querySelector('.cost');
 
 const showBill = () => {
     if (price.value == '' || people.value == '' || tip.value == 0) {
-        error.textContent = 'Uzupełnij wszystkie pola!';
+        error.textContent = 'Fill all fields!';
         costInfo.style.display = 'none';
     } else {
         error.textContent = '';
