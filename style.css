@@ -53,7 +53,7 @@ input, select{
     margin: 20px auto;
     padding: 20px 10px;
     width: 60%;
-    font-size: 24;
+    font-size: 24px;
     border-radius: 8px;
     color: #ffffff;
     background-color: #00BA40;
@@ -79,5 +79,4 @@ input, select{
     font-size: 18px;
     color: rgb(199,63,29);
     text-align: center;
-
 }
